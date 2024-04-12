@@ -4,6 +4,7 @@
 #include <string>
 #include <vector>
 #include <mutex>
+#include "GL/gl.h"
 
 class User {
 public:
