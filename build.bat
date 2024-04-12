@@ -1,0 +1,1 @@
+g++ *.cpp C:\imgui\imgui*.cpp C:\imgui\backends\imgui_impl_opengl3.cpp C:\imgui\backends\imgui_impl_win32.cpp -lopengl32 -IC:\imgui -IC:\imgui\backends -o main.exe -lgdi32 -luser32 -ldwmapi
